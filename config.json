@@ -1,0 +1,6 @@
+{
+    "update_base_url": "https://github.com/your-username/PerformanceTool",
+    "update_check_timeout": 10,
+    "update_download_timeout": 300,
+    "auto_check_update_on_startup": true
+}
